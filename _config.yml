@@ -1,0 +1,15 @@
+name: Ryan's blog
+description: Blogging about stuffs - useful and not useful
+meta_description: "Ryan McKinnon personal experiment/blog | located in Wake Forest NC"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'ryanmckinnon.com'
+author:         'Ryan McKinnon'
