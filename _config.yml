@@ -7,7 +7,7 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://ryanmckinnon.com'
 google_analytics: 'UA-20123430-2'
 twitter_username: 'ryanmckinnon'
 github_username: 'rdmckinnon'
