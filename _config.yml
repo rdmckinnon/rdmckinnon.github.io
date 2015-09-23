@@ -9,6 +9,10 @@ paginate: 15
 baseurl: /
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-20123430-2'
+twitter_username: 'ryanmckinnon'
+github_username: 'rdmckinnon'
+linkedin_username: 'ryanmckinnon'
+facebook_username: 'rdmckinnon'
 
 # Details for the RSS feed generator
 url:            'ryanmckinnon.com'
