@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Ryan's blog</title>
+    <link>ryanmckinnon.com</link>
+    <description>Blogging about stuffs - useful and not useful</description>
+    <pubDate>Tue, 22 Sep 2015 06:18:00 -0400</pubDate>
+    <item>
+      <title>Joke of the day</title>
+      <link>ryanmckinnon.com/jokes/funny/2015/09/22/joke-of-the-day.html</link>
+      <description>&lt;p&gt;There is a viking ship with all the men rowing down below.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 22 Sep 2015 06:18:00 -0400</pubDate>
+      <dc:date>2015-09-22T06:18:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>1st Job</title>
+      <link>ryanmckinnon.com/jokes/funny/2015/09/22/job.html</link>
+      <description>&lt;p&gt;My 1st job out of college was in the IT department of a franchising company. &lt;/p&gt;
+</description>
+      <pubDate>Tue, 22 Sep 2015 06:18:00 -0400</pubDate>
+      <dc:date>2015-09-22T06:18:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Addison</title>
+      <link>ryanmckinnon.com/thoughts/addy/2015/09/22/addison.html</link>
+      <description>&lt;p&gt;I have so much to tell you and share with you about life but more importantly, my wish is that you feel loved everyday. &lt;/p&gt;
+</description>
+      <pubDate>Tue, 22 Sep 2015 06:18:00 -0400</pubDate>
+      <dc:date>2015-09-22T06:18:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Joke</title>
+      <link>ryanmckinnon.com/jokes/funny/2015/09/22/Joke.html</link>
+      <description>&lt;p&gt;During his physical, the doctor asked the patient about his daily activity level. He described a typical day this way:
+“Well, yesterday afternoon, I waded along the edge of a lake, drank eight beers, escaped from wild dogs in the heavy brush, jumped away from an aggressive rattlesnake, marched up and down several rocky hills, stood in a patch of poison ivy, crawled out of quicksand and took four leaks behind big trees.”
+Inspired by the story, the doctor said, “You must be one hell of an outdoors man!”
+”NAH,” he replied, “I&amp;#39;m just a shitty golfer.”&lt;/p&gt;
+</description>
+      <pubDate>Tue, 22 Sep 2015 06:18:00 -0400</pubDate>
+      <dc:date>2015-09-22T06:18:00-04:00</dc:date>
+    </item>
+    <dc:date>2015-09-22T06:18:00-04:00</dc:date>
+  </channel>
+</rss>
