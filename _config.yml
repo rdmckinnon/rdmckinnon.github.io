@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-20123430-2'
 
 # Details for the RSS feed generator
 url:            'ryanmckinnon.com'
