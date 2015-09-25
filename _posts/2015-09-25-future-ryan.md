@@ -11,6 +11,6 @@ These shoes are Jacks’ first running shoes.  In these shoes Jacks learned to r
 
 These are your favorite shoes and they are not even your shoes. 
 
-Today we are washing these shoes and giving them away so they can be another father’s favorite shoes. 
+Today is the last day Jacks' wore these shoes. He our grew the. Tomorrow we are washing these shoes and giving them away so they can be another father’s favorite shoes. 
 
 ![these shoes!](/assets/images/shoes.png)
