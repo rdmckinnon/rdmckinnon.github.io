@@ -8,7 +8,15 @@
     <title>Ryan's blog</title>
     <link>ryanmckinnon.com</link>
     <description>Blogging about stuffs - useful and not useful</description>
-    <pubDate>Tue, 22 Sep 2015 06:18:00 -0400</pubDate>
+    <pubDate>Fri, 25 Sep 2015 06:18:00 -0400</pubDate>
+    <item>
+      <title>These Shoes</title>
+      <link>ryanmckinnon.com/thoughts/jacks/memories/future/ryan/2015/09/25/future-ryan.html</link>
+      <description>&lt;p&gt;One day when you are stressed and life is overwhelming take a second, take a deep breath, and remember these shoes. &lt;/p&gt;
+</description>
+      <pubDate>Fri, 25 Sep 2015 06:18:00 -0400</pubDate>
+      <dc:date>2015-09-25T06:18:00-04:00</dc:date>
+    </item>
     <item>
       <title>Joke of the day</title>
       <link>ryanmckinnon.com/jokes/funny/2015/09/22/joke-of-the-day.html</link>
@@ -44,6 +52,6 @@ Inspired by the story, the doctor said, “You must be one hell of an outdoors m
       <pubDate>Tue, 22 Sep 2015 06:18:00 -0400</pubDate>
       <dc:date>2015-09-22T06:18:00-04:00</dc:date>
     </item>
-    <dc:date>2015-09-22T06:18:00-04:00</dc:date>
+    <dc:date>2015-09-25T06:18:00-04:00</dc:date>
   </channel>
 </rss>
