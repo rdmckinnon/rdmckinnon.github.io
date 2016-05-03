@@ -2,7 +2,7 @@ name: Ryan's blog
 description: Blogging about stuffs - useful and not useful
 meta_description: "Ryan McKinnon personal experiment/blog | located in Wake Forest NC"
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
