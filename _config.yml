@@ -3,7 +3,7 @@ description: Blogging about stuffs - useful and not useful
 meta_description: "Ryan McKinnon personal experiment/blog | located in Wake Forest NC"
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
