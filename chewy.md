@@ -3,6 +3,8 @@ layout: post
 title: Chewy Cover Letter 
 ---
 
+
+
 Hi Chewy!
 
 I have been following your growth for a couple years now and I think my skill set could be a tremendous asset to your team. In the winter I applied for your SEM Analyst position and made it to the second phone interview. Well, I'm back and I'm trying my luck the the Director of Digital and Customer Acquisition Marketing position.
