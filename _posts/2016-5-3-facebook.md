@@ -2,6 +2,7 @@
 layout: post
 title:  "Facebook Application"
 date:   2016-05-3 10:55:00
+visible: 1
 categories: 
 ---
 
