@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Chewy Cover Letter 
 ---
 
@@ -13,4 +13,4 @@ I believe I can help Chewy optimize and manage campaigns and collaborate on futu
 
 I love your company atmosphere and look forward to hearing from you soon! 
 
-![Ellie!]({{ site.url }}/assets/ellie.png)
+![Ellie!]({{ site.url }}/assets/images/ellie.png)
