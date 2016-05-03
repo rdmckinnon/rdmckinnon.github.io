@@ -59,13 +59,7 @@ thoughts: 'thoughts.html'
             </time> 
         </footer>
     </article>
-    {% for post in site.posts %}
-  {% unless post.draft %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endunless %}
-{% endfor %}
+   
 
     <!-- Capser below -->
 <!--     <article class="{{post_class}}">
