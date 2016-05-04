@@ -5,7 +5,6 @@ meta_description: "Ryan McKinnon personal experiment/blog | located in Wake Fore
 markdown: kramdown
 highlighter: rouge
 logo: false
-paginate: 15
 baseurl: /
 domain_name: http://ryanmckinnon.com
 google_analytics: 'UA-20123430-2'
