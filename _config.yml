@@ -17,3 +17,5 @@ facebook_username: 'rdmckinnon'
 # Details for the RSS feed generator
 url:            'ryanmckinnon.com'
 author:         'Ryan McKinnon'
+
+gems: [jekyll-paginate]

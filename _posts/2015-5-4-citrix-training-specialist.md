@@ -2,7 +2,6 @@
 layout: post
 title:  "Citrix Training Specialist"
 date:   2016-05-4 10:30:00
-categories: 
 ---
 
 Hi Citrix!
