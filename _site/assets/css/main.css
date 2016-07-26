@@ -196,3 +196,7 @@
     color: #008080; }
   .highlight .il {
     color: #009999; }
+
+.center-image {
+  margin: 0 auto;
+  display: block; }
